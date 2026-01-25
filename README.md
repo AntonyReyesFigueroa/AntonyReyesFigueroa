@@ -8,8 +8,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 <br><br>
 <div>
-Ingeniero de Sistemas y desarrollador Full Stack con más de 3 años de experiencia en desarrollo web, enfocado en la creación de soluciones escalables y orientadas al negocio. He participado en el desarrollo de e-commerce, sistemas empresariales y aplicaciones en tiempo real, trabajando bajo metodologías ágiles (Scrum) y aplicando buenas prácticas como arquitectura hexagonal. Cuento con experiencia en AWS y colaboración en equipos multidisciplinarios, incluyendo entornos corporativos y del sector industrial/minero. Apasionado por construir software mantenible, eficiente y alineado a las necesidades reales de las organizaciones.
-
+Systems Engineer and Full Stack Developer with 3+ years of experience in web development, focused on building scalable, business-oriented solutions. Experienced in e-commerce, enterprise systems, and real-time applications, working with agile methodologies (Scrum) and best practices. Skilled in AWS and collaborative work within multidisciplinary teams.
 </div>
 
 ## 🌐 Socials:
