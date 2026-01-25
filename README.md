@@ -1,7 +1,14 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AntonyReyesFigueroa/count.svg"/>
-  <br/>
+<h1 align="center"><b>Hi , I'm Antony Reyes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<br><br>
+<div>
+  I'm a Full Stack Developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 </div>
 
 # 💫 About Me:
