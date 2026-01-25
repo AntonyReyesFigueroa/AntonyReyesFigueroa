@@ -21,6 +21,11 @@
   and applying best practices. Skilled in AWS and collaboration within multidisciplinary teams.
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/About_Me_Words-45-blue?style=flat-square"/>
+</div>
+
+
 <br clear="right"/>
 
 
