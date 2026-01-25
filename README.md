@@ -22,8 +22,9 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/About_Me_Words-45-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Role-Systems%20Engineer%20%26%20Full%20Stack%20Developer-blue"/>
 </div>
+
 
 
 <br clear="right"/>
