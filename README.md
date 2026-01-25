@@ -1,15 +1,28 @@
-<h1 align="center"><b>Hi , I'm Antony Reyes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">
+  <b>Hi, I'm Antony Reyes</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<img 
+  align="right"
+  height="260"
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-<br><br>
-<div>
-Systems Engineer and Full Stack Developer with 3+ years of experience in web development, focused on building scalable, business-oriented solutions. Experienced in e-commerce, enterprise systems, and real-time applications, working with agile methodologies (Scrum) and best practices. Skilled in AWS and collaborative work within multidisciplinary teams.
-</div>
+<h3>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  About me
+</h3>
+
+<p>
+  Systems Engineer and Full Stack Developer with 3+ years of experience in web development, 
+  focused on building scalable, business-oriented solutions. Experienced in e-commerce, 
+  enterprise systems, and real-time applications, working under agile methodologies (Scrum) 
+  and applying best practices. Skilled in AWS and collaboration within multidisciplinary teams.
+</p>
+
+<br clear="right"/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-reyes-figueroa-75901b24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonyreyesfigueroa@gmail.com) 
