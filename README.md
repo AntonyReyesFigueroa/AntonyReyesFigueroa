@@ -22,8 +22,9 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AntonyReyesFigueroa/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=AntonyReyesFigueroa&style=flat-square&color=blue"/>
 </div>
+
 
 
 <br clear="right"/>
