@@ -3,11 +3,6 @@
   <img src="https://profile-counter.glitch.me/AntonyReyesFigueroa/count.svg"/>
   <br/>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonyReyesFigueroa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyReyesFigueroa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyReyesFigueroa&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
 
 # 💫 About Me:
 Ingeniero de Sistemas y desarrollador Full Stack con más de 3 años de experiencia en desarrollo web, enfocado en la creación de soluciones escalables y orientadas al negocio. He participado en el desarrollo de e-commerce, sistemas empresariales y aplicaciones en tiempo real, trabajando bajo metodologías ágiles (Scrum) y aplicando buenas prácticas como arquitectura hexagonal. Cuento con experiencia en AWS y colaboración en equipos multidisciplinarios, incluyendo entornos corporativos y del sector industrial/minero. Apasionado por construir software mantenible, eficiente y alineado a las necesidades reales de las organizaciones.
