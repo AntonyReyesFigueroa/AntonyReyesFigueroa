@@ -8,12 +8,12 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 <br><br>
 <div>
-  I'm a Full Stack Developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
-</div>
-
-# 💫 About Me:
 Ingeniero de Sistemas y desarrollador Full Stack con más de 3 años de experiencia en desarrollo web, enfocado en la creación de soluciones escalables y orientadas al negocio. He participado en el desarrollo de e-commerce, sistemas empresariales y aplicaciones en tiempo real, trabajando bajo metodologías ágiles (Scrum) y aplicando buenas prácticas como arquitectura hexagonal. Cuento con experiencia en AWS y colaboración en equipos multidisciplinarios, incluyendo entornos corporativos y del sector industrial/minero. Apasionado por construir software mantenible, eficiente y alineado a las necesidades reales de las organizaciones.
 
+</div>
+<br><br>
+<br><br>
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-reyes-figueroa-75901b24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonyreyesfigueroa@gmail.com) 
