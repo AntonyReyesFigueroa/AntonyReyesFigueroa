@@ -22,9 +22,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Systems%20Engineer%20%26%20Full%20Stack%20Developer-blue"/>
+  <img src="https://profile-counter.glitch.me/AntonyReyesFigueroa/count.svg"/>
 </div>
-
 
 
 <br clear="right"/>
